@@ -11,13 +11,14 @@
 *SECTION 4  
 
 
-
                            --------------------------------------------------------------------
                               
 <a href="https://zupimages.net/viewer.php?id=20/27/gnol.png"><img src="https://zupimages.net/up/20/27/gnol.png" alt="" /></a>
 # MEGARISSE Yannick
+# Nom de la formation
 *DEVELOPPEUR WEB  
-*3 grande competence  
+
+# 3 grandes competences  
 
     *Développer une interface utilisateur dynamique  
     
@@ -25,7 +26,8 @@
     
     *Développer les composants d'accès  
 
-    
- *11mois  
+# Temps de formation
+ *12mois  
  
+#  Nombre d'apprenants dans la formation
  *11 apprenant  
