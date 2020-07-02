@@ -1,7 +1,6 @@
 # PRESENTATION
-<a href="https://zupimages.net/viewer.php?id=20/27/tuk4.jpg"><img src="https://zupimages.net/up/20/27/tuk4.jpg" alt="" /></a>
-
-# MEGARISSE Yannick  
+<a href="https://zupimages.net/viewer.php?id=20/27/tuk4.jpg"><img src="https://zupimages.net/up/20/27/tuk4.jpg" alt="" width="97" height="110" /></a>
+# MEGARISSE Yannick   
 
 *22 ans  
 
@@ -20,11 +19,12 @@
 *DEVELOPPEUR WEB  
 *3 grande competence  
 
-     *je sais pas  
+    *Développer une interface utilisateur dynamique  
     
-     *je sais toujours pas  
+    *Créer une base de donnée
     
-     *je sais encore pas  
+    *Développer les composants d'accès  
+
     
  *11mois  
  
