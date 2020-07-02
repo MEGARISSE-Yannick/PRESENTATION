@@ -1,6 +1,5 @@
-# PRESENTATION
-<a href="https://zupimages.net/viewer.php?id=20/27/tuk4.jpg"><img src="https://zupimages.net/up/20/27/tuk4.jpg" alt="" width="97" height="110" /></a>
-# MEGARISSE Yannick   
+ # MEGARISSE Yannick   <a href="https://zupimages.net/viewer.php?id=20/27/tuk4.jpg"><img src="https://zupimages.net/up/20/27/tuk4.jpg" alt="" width="97" height="110" /></a># PRESENTATION 
+  # MEGARISSE Yannick   
 
 *22 ans  
 
@@ -18,13 +17,13 @@
 # Nom de la formation
 *DEVELOPPEUR WEB  
 
-# 3 grandes competences  
+# 3 grandes compétences  
 
-    *Développer une interface utilisateur dynamique  
+    1.Développer une interface utilisateur dynamique  
     
-    *Créer une base de donnée
+    2.Créer une base de donnée
     
-    *Développer les composants d'accès  
+    3.Développer les composants d'accès  
 
 # Temps de formation
  *12mois  
